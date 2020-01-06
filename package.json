@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bintable@github.com/bintable/api_nodejs.git"
+    "url": "git+https://bintable@github.com/bintable/bintable_api.git"
   },
   "keywords": [
     "bin",
