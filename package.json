@@ -1,0 +1,30 @@
+{
+  "name": "bintable_api",
+  "version": "1.0.0",
+  "description": "BIN lookup api provided by bintable.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bintable@github.com/bintable/api_nodejs.git"
+  },
+  "keywords": [
+    "bin",
+    "lookup",
+    "bin",
+    "check",
+    "bin",
+    "checker",
+    "card",
+    "bin",
+    "lookup"
+  ],
+  "author": "BINTable",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bintable/api_nodejs/issues"
+  },
+  "homepage": "https://github.com/bintable/api_nodejs#readme"
+}
