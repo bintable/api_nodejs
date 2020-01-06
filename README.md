@@ -30,5 +30,5 @@ function balance(data){
 }
 ```
 
-For more information and API key, please visit [BINTable BIN Lookup API] 
-[BINTable BIN Lookup API]: <https://bintable.com/get-api>
+For more information and API key, please visit
+[BINTable BIN Lookup API]<https://bintable.com/get-api>
